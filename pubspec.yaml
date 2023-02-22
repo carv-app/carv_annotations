@@ -1,0 +1,17 @@
+name: carv_annotations
+description: >-
+  Annotation declaration that support code generation via `carv_generators` package for Carv.
+version: 1.0.0
+repository: https://github.com/carv-app/carv_annotations
+
+environment:
+  sdk: '>=2.19.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
